@@ -1,16 +1,18 @@
-<h1 align="center">Hi, I'm Kaushal Vaid</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaushal+Vaid;BS+Data+Science;AI+%7C+Development+%7C+Finance;Teaching+Assistant+%7C+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <i>Intern and Student @ IIT Madras • Full-Stack & ML • Kaggle Competitor</i>
+  <i>Intern and Student @ IIT Madras • Full-Stack & AI • Kaggle Competitor</i>
 </p>
 
 ---
 
-### About Me
-I’m an engineering student at **IIT Madras (’28)** focused on building **scalable backend systems** and learning **Machine Learning & Deep Learning from first principles**.
-
-I enjoy translating theory into production-ready systems and have worked as a **Teaching Assistant**, where I learned to break down complex ideas clearly.  
-Currently building and documenting my ML journey while working on real-world full-stack projects.
+### About me
+- Engineering Student (BS in Data Science and Applications)
+- **Teaching Assistant** at IIT Madras - Taught Statistics & Java to hundreds of students.
+- Regularly building AI integrated web based products.
+- Learning **Machine Learning** & **Deep Learning** from the first principles.
 
 **ML / DL Learning Log:**  
 https://kaushal-ml-journey.vercel.app  
@@ -18,72 +20,67 @@ https://kaushal-ml-journey.vercel.app
 
 ---
 
-### Connect
-[LinkedIn](https://linkedin.com/in/kaushal-vaid) · 
-[GitHub](https://github.com/Kaushal00Vaid) · 
-[Medium](https://medium.com/@Kaushalvaid) · 
-[X](https://x.com/kaushal_vaid_) · 
-[Kaggle](https://www.kaggle.com/kaushalvaid) · 
-[Email](mailto:kaushalvaid123@gmail.com)
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/kaushal-vaid)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Kaushal00Vaid)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@kaushalvaid)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/kaushal_vaid)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/kaushalvaid)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kaushalvaid123@gmail.com)
+
 
 ---
+
+## 🧠 Tech Stack
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=ts,java,python,js" />
+</p>
 
 ### Backend & Systems
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404d59?style=plastic&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens)
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" />
+</p>
 
 ### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=plastic&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=plastic&logo=redis&logoColor=white)
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" />
+</p>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232a?style=plastic&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=plastic&logo=shadcnui&logoColor=white)
 
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ### Machine Learning & Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
 
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+</p>
 
 ### DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,vercel,gcp" />
+</p>
 
 ---
 
 ### Featured Projects
+**Nodeflow** [Deployed Link](https://nodeflow-gold.vercel.app) \
+https://github.com/Kaushal00Vaid/nodeflow \
+A Workflow Automation Platform similar to N8N & Zapier.
+
+
 **E-Commerce Platform**  
 https://github.com/Kaushal00Vaid/e-commerce  
-Full-stack platform with RBAC, Google OAuth, cart, orders, reviews, and admin dashboard.
+Full-stack freelance e-commerce platform for a local shop.
 
 **Gradely — Quiz Practice Platform**  
 https://github.com/Kaushal00Vaid/QuizMaster-V2  
